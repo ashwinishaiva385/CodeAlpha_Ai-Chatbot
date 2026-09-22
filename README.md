@@ -14,8 +14,8 @@ This project is a simple AI Chatbot developed using Java and Spring Boot.
 
 - Java
 - Spring Boot
-- HTML
-- CSS
+- Basics of HTML
+- CSS Basic
 - Maven
 
 ## Project
